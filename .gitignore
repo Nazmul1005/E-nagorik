@@ -1,0 +1,7 @@
+e-nagorik-backend/out/
+e-nagorik-backend/data/*.json
+e-nagorik-frontend/node_modules/
+e-nagorik-frontend/dist/
+e-nagorik-frontend/tsconfig.tsbuildinfo
+.DS_Store
+
